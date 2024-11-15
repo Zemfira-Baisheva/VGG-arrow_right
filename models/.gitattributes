@@ -1,0 +1,1 @@
+model_weights_coffee.pth filter=lfs diff=lfs merge=lfs -text
